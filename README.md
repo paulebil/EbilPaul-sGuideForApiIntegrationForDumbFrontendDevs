@@ -1,4 +1,4 @@
-# EbilPaul-sGuideForApiIntegrationForDumbFrontendDevs
+# EbilPaul's Guide For Api Integration For Dumb Frontend Devs
 This is a repository with clear guidelines for frontend devs to gracefully and clearly handle backend request status codes especially 404's
 
 
